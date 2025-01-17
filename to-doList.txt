@@ -1,0 +1,135 @@
+Common Achievements: 
+SOL Holder – Hold at least 1 SOL in your wallet. 
+SOL Newbie – Complete your first Solana transaction. 
+Memecoin Enthusiast – Hold any memecoin. 
+SOL Streaker – Complete a transaction every day for a week. 
+NFT Curious – Hold your first NFT on Solana. 
+Small Bags – Hold a token with less than 6,000 market cap. 
+Transaction Tracker – Complete 50 transactions. 
+SOL Trader – Perform 5 token swaps. 
+SOL Hodler Jr. – Hold at least 0.1 SOL in your wallet.
+Quick Start – Complete a transaction within 24 hours of creating a wallet.
+Gas Tracker – Spend 0.5 SOL on transaction fees.
+ 
+ 
+Rare Achievements: 
+HODL Hero – Hold a token for at least 6 months. 
+Market Maven – Trade 10 unique tokens on Solana. 
+Degen OG – Hold a token launched over 1 year ago. 
+Gas God – Spend over 1 SOL in transaction fees. 
+NFT Collector – Hold at least 10 NFTs in your wallet. 
+Whale Whisperer – Own a memecoin within a top 10 holder position. 
+Portfolio Juggler – Hold 20 different Solana tokens. 
+Richlist Dreams – Hold at least 10 SOL in your wallet. 
+Staking Star – Stake any Solana token. 
+Meme Addict – Hold 5 different memecoins. 
+Token Tactician – Perform 100 transactions. 
+High Roller – Make a transaction worth over 10 SOL.
+Degen Loyalist – Hold a memecoin for at least 3 months.
+Daily grinder - Complete a transaction every day for 14 days.
+
+
+ 
+ 
+Epic Achievements: 
+NFT Whale – Hold 50 NFTs in your wallet. 
+SOL Millionaire – Hold 1,000 SOL (in token value or combined). 
+Pump Chaser – Buy a token within 24 hours of its launch. 
+Dump Dodger – Sell a memecoin before it drops by 90%. 
+Staking Tycoon – Stake 100 SOL worth of assets. 
+Rugpull Survivor – Be part of a rug-pulled project. 
+SOL Connoisseur – Hold 10 different Solana-based NFTs. 
+Token Whisperer – Be early on a token that grows 10x in value. 
+SOL OG – Hold a token launched in 2021 or earlier. 
+NFT Flipper – Sell an NFT for a profit. 
+Degen Maximalist – Hold at least 50 different Solana tokens. 
+Richlist Status – Hold 50 SOL in your wallet.
+Market Timing Pro – Buy and sell the same token within 24 hours for a profit.
+Wallet Proliferator – Interact with 50 different wallets.
+Alpha Sniper – Buy a token within 1 hour of its launch.
+NFT OG – Hold an NFT launched before 2022.
+Ultimate Flipper – Flip an NFT for 5x its original price.
+
+ 
+ 
+Platinum Trophies: 
+Degen God – Own 51 unique Solana tokens, hold 100 SOL, stake 50 SOL,  and own 100 NFTs. 
+Rug King – Participate in at least 10 rug-pulled projects and still keep coming back for more.
+Early Believer – Hold a token launched in 2020 or earlier.
+Portfolio Legend – Hold 100 different Solana-based tokens.
+Gas Baron – Spend over 10 SOL in transaction fees.
+
+
+
+# same algo:
+
+hold:
+SOL Hodler Jr. – Hold at least 0.1 SOL in your wallet.
+SOL Holder – Hold at least 1 SOL in your wallet.
+Richlist Dreams – Hold at least 10 SOL in your wallet.
+Richlist Status – Hold 50 SOL in your wallet.
+SOL Millionaire – Hold 1,000 SOL (in token value or combined).
+
+hold meme:
+Memecoin Enthusiast – Hold any memecoin.
+Portfolio Juggler – Hold 20 different Solana tokens.
+Meme Addict – Hold 5 different memecoins.
+Degen Maximalist – Hold at least 50 different Solana tokens.
+Portfolio Legend – Hold 100 different Solana-based tokens.
+
+transaction:
+SOL Newbie – Complete your first Solana transaction.
+Transaction Tracker – Complete 50 transactions.
+Token Tactician – Perform 100 transactions.
+
+
+transaction different: 
+SOL Streaker – Complete a transaction every day for a week.
+Daily grinder - Complete a transaction every day for 14 days.
+Gas Tracker – Spend 0.5 SOL on transaction fees.
+Gas God – Spend over 1 SOL in transaction fees.
+Gas Baron – Spend over 10 SOL in transaction fees.
+High Roller – Make a transaction worth over 10 SOL.
+Quick Start – Complete a transaction within 24 hours of creating a wallet.
+
+hold NFT:
+NFT Curious – Hold your first NFT on Solana.
+NFT Collector – Hold at least 10 NFTs in your wallet.
+NFT Whale – Hold 50 NFTs in your wallet.
+SOL Connoisseur – Hold 10 different Solana-based NFTs.
+NFT OG – Hold an NFT launched before 2022.
+
+market cap:
+Small Bags – Hold a token with less than 1,000 market cap.
+
+swaps trade:
+SOL Trader – Perform 5 token swaps.
+Market Maven – Trade 10 unique tokens on Solana.
+
+hold long:
+Degen Loyalist – Hold a memecoin for at least 3 months.
+HODL Hero – Hold a token for at least 6 months.
+Degen OG – Hold a token launched over 1 year ago.
+SOL OG – Hold a token launched in 2021 or earlier.
+Early Believer – Hold a token launched in 2020 or earlier.
+Whale Whisperer – Own a memecoin with a top 10 holder position.
+
+stake: 
+Staking Star – Stake any Solana token.
+Staking Tycoon – Stake 100 SOL worth of assets.
+
+launch:
+Alpha Sniper – Buy a token within 1 hour of its launch.
+Pump Chaser – Buy a token within 24 hours of its launch.
+
+Rugpull:
+Rugpull Survivor – Be part of a rug-pulled project.
+
+#independent algo:
+Token Whisperer – Be early on a token that grows 10x in value.
+NFT Flipper – Sell an NFT for a profit
+Ultimate Flipper – Flip an NFT for 5x its original price.
+Market Timing Pro – Buy and sell the same token within 24 hours for a profit.
+Wallet Proliferator – Interact with 50 different wallets.
+Degen God – Own 51 unique Solana tokens, hold 100 SOL, stake 50 SOL,  and own 100 NFTs. 
+Rug King – Participate in at least 10 rug-pulled projects and still keep coming back for more.
